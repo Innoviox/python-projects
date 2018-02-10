@@ -10,3 +10,6 @@
 [submodule "zarf"]
 	path = zarf
 	url = https://github.com/Innoviox/zarf
+[submodule "war"]
+	path = war
+	url = https://github.com/Innoviox/War
