@@ -1,0 +1,12 @@
+[submodule "othello"]
+	path = othello
+	url = https://github.com/Innoviox/Othello
+[submodule "run"]
+	path = run
+	url = https://github.com/Innoviox/run
+[submodule "travel"]
+	path = travel
+	url = https://github.com/Innoviox/travel
+[submodule "zarf"]
+	path = zarf
+	url = https://github.com/Innoviox/zarf
